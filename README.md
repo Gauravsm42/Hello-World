@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-lorem, no? doesn't wprk? hmmm..... it works on sublime text tho:) 
+lorem, no? doesn't work? hmmm..... it works on sublime text tho:) 
