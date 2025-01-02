@@ -6,3 +6,5 @@ This time I want to at least be able to complete one small project. Hopefully, p
 Although, I doubt anyone will see this.
 
 Update [28/06]: Yeah... I fell off of this as well. Haven't gone back to this in a couple years. But NO FEAR, I've started learning R for Bioinformatics. Let's see, how long I stick to that!
+
+Update [02/01/25]: R learning is going good. I've taken a break to restart with python, again for BioInfo.
